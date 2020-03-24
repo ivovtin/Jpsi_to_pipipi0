@@ -1,0 +1,285 @@
+23114
+23112
+23111
+23110
+23088
+23085
+23084
+23083
+23082
+23081
+23080
+23079
+23078
+23077
+23071
+23070
+23069
+23068
+23067
+23062
+23061
+23060
+23059
+23058
+23056
+23055
+23054
+//23052
+23051
+23050
+23049
+23048
+23047
+23046
+23045
+23044
+23043
+23042
+23041
+23039
+23038
+23015
+23013
+23011
+23010
+23009
+23008
+22973
+22972
+22971
+22970
+22969
+//22968 Bad counter 124 but RunsMonitor ok
+22967
+22966
+22964
+22956
+22952
+22951
+22950
+//22949 Bad counter 124 but RunsMonitor ok
+//22948 Bad counter 124 but RunsMonitor ok
+22947
+//22946 Bad counter 124 but RunsMonitor ok
+//22945 Bad counter 124 but RunsMonitor ok
+//22944 Bad counter 124 but RunsMonitor ok
+22943
+22940
+22939
+//22937 Bad counter 124 but RunsMonitor ok
+//22936 Bad counter 124 but RunsMonitor ok
+//22934 Bad counter 124 but RunsMonitor ok
+//22932 Bad counter 124 but RunsMonitor ok
+22931
+22930
+22929
+22928
+22927
+22925
+//22923 Bad counter 124 but RunsMonitor ok
+22922
+22913
+//22912 Bad counter 124 but RunsMonitor ok
+22909
+22908
+22907
+22906
+22905
+22903
+22902
+22901
+22900
+22899
+22894
+22893
+22892
+22891
+//22890 Bad counter 124 but RunsMonitor ok
+//22889 Bad counter 124 but RunsMonitor ok
+//22887 Bad counter 124 but RunsMonitor ok
+//22885 Bad counter 124 but RunsMonitor ok
+//22883 Bad counter 124 but RunsMonitor ok
+//22882 Bad counter 124 but RunsMonitor ok
+//22881 Bad counter 124 but RunsMonitor ok
+//22880 Bad counter 124 but RunsMonitor ok
+//22879 Bad counter 124 but RunsMonitor ok
+//22878 Bad counter 124 but RunsMonitor ok
+//22877 Bad counter 124 but RunsMonitor ok
+//22876 Bad counter 124 but RunsMonitor ok
+//22875 Bad counter 124 but RunsMonitor ok
+//22874 Bad counter 124 but RunsMonitor ok
+22873
+22871
+//22867 Bad counter 124 but RunsMonitor ok
+22865
+22861
+22860
+22858
+22857
+22856
+22855
+22854
+22853
+22852
+22851
+//22850 Bad counter 124 but RunsMonitor ok
+//22849 Bad counter 124 but RunsMonitor ok
+22848
+22847
+22845
+22791
+22790
+22789
+22788
+22787
+22786
+22785
+22784
+22783
+22782
+22781
+22780
+22777
+22776
+22775
+22774
+22773
+22772
+22767
+22766
+22762
+22761
+22760
+22759
+22758
+22757
+22752
+22751
+22750
+//22749
+22746
+22745
+22744
+22740
+22739
+22738
+22737
+22736
+22735
+//22734
+22727
+22726
+22725
+//22724 Bad counter 124 but RunsMonitor ok
+22723
+22721
+//22720 Bad counter 124 but RunsMonitor ok
+22719
+22718
+22717
+22716
+22715
+//22714 Bad counter 124 but RunsMonitor ok
+22713
+22712
+//22711 Bad counter 124 but RunsMonitor ok
+22710
+22709
+22708
+22707
+//22706 Bad counter 124 but RunsMonitor ok
+22705
+22704
+//22698 Bad counter 124 but RunsMonitor ok
+22697
+//22696 Bad counter 124 but RunsMonitor ok
+22695
+//22694 Bad counter 124 but RunsMonitor ok
+22693
+//22692 Bad counter 83 but RunsMonitor ok
+22690
+//22689 Bad counter 124 but RunsMonitor ok
+22687
+22686
+22574
+//22573
+//22572 RunsMonitor bad channel:83
+22571
+22570
+22569
+22568
+22567
+22566
+22565
+22564
+22557
+22556
+22555
+22553
+22552
+22549
+22542
+22541
+22540
+22539
+22538
+22537
+22535
+22534
+22533
+22532
+22531
+22530
+22528
+22527
+22526
+22525
+22524
+22515
+22514
+22513
+22512
+22511
+22510
+22508
+22507
+22506
+22505
+22504
+22502
+22501
+22500
+22499
+22498
+22496
+//22495 Bad counter 124 but RunsMonitor ok
+22494
+//22493 Bad counter 112 but RunsMonitor ok
+22492
+22491
+22490
+22489
+22483
+22482
+22481
+//22480 Bad counter 124 but RunsMonitor ok
+//22479 Bad counter 124 but RunsMonitor ok
+//22478
+22477
+//22474
+22471
+22469
+22468
+22457
+22455
+22453
+22452
+//22451 Bad counter 124 but RunsMonitor ok
+//22450
+22449
+22447
+22446
+22445
+//22439
+22413
